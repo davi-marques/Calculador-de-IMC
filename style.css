@@ -6,7 +6,7 @@
 }
 
 body{
-    font-family: sans-serif;
+    font-family: cursive;
     height: 100vh;
     background-image: linear-gradient(320deg, blue, blue, black, black);
     display: flex;
@@ -20,6 +20,29 @@ article{
     border-radius: 20px;
     box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.50);
     background-color: white;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 1.56em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+p{
+    margin-top: 40px;
+    margin-left: 15px;
+    font-size: 1.3em;
+}
+
+#altura, #peso{
+    outline: none;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: .7em;
+    height: 25px;
 }
 
 #btn{
