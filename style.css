@@ -6,8 +6,19 @@
 }
 
 body{
+    font-family: sans-serif;
     height: 100vh;
-    width: 100vh;
     background-image: linear-gradient(320deg, blue, blue, black, black);
+    display: flex;
 }
+
+article{
+    margin: auto;
+    height: 550px;
+    width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.50);
+    background-color: white;
 }
+
