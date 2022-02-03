@@ -21,3 +21,7 @@ Depois, informe seu peso.
 <br>
 <br>
 Por fim, clique em "Calcular".
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/93229005/152441015-41c70388-76a9-41d2-8f68-b432512f1feb.png" width="500px">
+</div>
