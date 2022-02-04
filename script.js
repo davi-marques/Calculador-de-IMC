@@ -5,9 +5,10 @@ let res = document.querySelector('#res')
 
 
 function calcular(A, P) {
+    res.style.margin = '30px'
+    res.style.fontSize = '1.3em'
     if (A == 0 || P == 0) {
         res.innerHTML = 'faltam dados!'
-        res.style.margin = '25px'
     } else {
         let imc = P / (A^2)
         if (imc < 17) {
